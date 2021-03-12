@@ -1,0 +1,15 @@
+/Users/timtieng/Github/CSharp/PlusMinus/bin/Debug/net5.0/PlusMinus.deps.json
+/Users/timtieng/Github/CSharp/PlusMinus/bin/Debug/net5.0/PlusMinus.runtimeconfig.json
+/Users/timtieng/Github/CSharp/PlusMinus/bin/Debug/net5.0/PlusMinus.runtimeconfig.dev.json
+/Users/timtieng/Github/CSharp/PlusMinus/bin/Debug/net5.0/PlusMinus.dll
+/Users/timtieng/Github/CSharp/PlusMinus/bin/Debug/net5.0/ref/PlusMinus.dll
+/Users/timtieng/Github/CSharp/PlusMinus/bin/Debug/net5.0/PlusMinus.pdb
+/Users/timtieng/Github/CSharp/PlusMinus/obj/Debug/net5.0/PlusMinus.csprojAssemblyReference.cache
+/Users/timtieng/Github/CSharp/PlusMinus/obj/Debug/net5.0/PlusMinus.GeneratedMSBuildEditorConfig.editorconfig
+/Users/timtieng/Github/CSharp/PlusMinus/obj/Debug/net5.0/PlusMinus.AssemblyInfoInputs.cache
+/Users/timtieng/Github/CSharp/PlusMinus/obj/Debug/net5.0/PlusMinus.AssemblyInfo.cs
+/Users/timtieng/Github/CSharp/PlusMinus/obj/Debug/net5.0/PlusMinus.csproj.CoreCompileInputs.cache
+/Users/timtieng/Github/CSharp/PlusMinus/obj/Debug/net5.0/PlusMinus.dll
+/Users/timtieng/Github/CSharp/PlusMinus/obj/Debug/net5.0/ref/PlusMinus.dll
+/Users/timtieng/Github/CSharp/PlusMinus/obj/Debug/net5.0/PlusMinus.pdb
+/Users/timtieng/Github/CSharp/PlusMinus/obj/Debug/net5.0/PlusMinus.genruntimeconfig.cache
