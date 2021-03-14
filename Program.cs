@@ -32,7 +32,7 @@ namespace PlusMinus
         
         Console.WriteLine($"Positive Number Ratio: {posRatio}");
         Console.WriteLine($"Negative Number Ratio: {negRatio}");
-         Console.WriteLine($"Zero Ratio: {zeroRatio}");
+        Console.WriteLine($"Zero Ratio: {zeroRatio}");
         }
         static void Main(string[] args)
         {
